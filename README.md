@@ -6,4 +6,4 @@ The goal of this work was to serve as a refresher to Monte Carlo methods, which 
 some work with in graduate school.
 
  - [Chapter 1](Chapter_1.pynb)
- - [Chapter_2](Chapter_2.ipynb)
+ - [Chapter 2](Chapter_2.ipynb)
