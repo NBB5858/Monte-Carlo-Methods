@@ -5,5 +5,6 @@ from the book _Monte Carlo theory, methods, and examples_ ([see here for an onli
 The goal of this work was to serve as a refresher to Monte Carlo methods, which I did 
 some work with in graduate school.
 
- - [Chapter 1](Chapter_1.pynb)
+ - [Chapter 1](Chapter_1.ipynb)
  - [Chapter 2](Chapter_2.ipynb)
+ - [Chapter_8](Chapter_8.ipynb)
