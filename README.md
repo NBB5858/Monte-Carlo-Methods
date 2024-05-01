@@ -7,4 +7,4 @@ some work with in graduate school.
 
  - [Chapter 1](Chapter_1.ipynb)
  - [Chapter 2](Chapter_2.ipynb)
- - [Chapter_8](Chapter_8.ipynb)
+ - [Chapter 8](Chapter_8.ipynb)
